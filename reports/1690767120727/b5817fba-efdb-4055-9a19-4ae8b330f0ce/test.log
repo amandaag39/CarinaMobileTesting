@@ -1,0 +1,10 @@
+[2023-07-31 01:32:04] [1] [WARN] Reporting disabled: using no op test run registrar
+[2023-07-31 01:32:04] [1] [INFO] TEST [CarinaMobileTesting - testMultiplication] STARTED at [20:32:04 2023-07-30]
+[2023-07-31 01:32:04] [1] [INFO] Starting driver session...
+[2023-07-31 01:32:05] [1] [ERROR] Failed to attach artifact reference 'app' to test run because it has not been started yet.
+[2023-07-31 01:32:21] [1] [INFO] Driver session started.
+[2023-07-31 01:32:23] [1] [INFO] PASS: element 'sevenBtn' is clicked.
+[2023-07-31 01:32:24] [1] [INFO] PASS: element 'mulBtn' is clicked.
+[2023-07-31 01:32:26] [1] [INFO] PASS: element 'nineBtn' is clicked.
+[2023-07-31 01:32:27] [1] [INFO] PASS: element 'eqBtn' is clicked.
+[2023-07-31 01:32:28] [1] [INFO] TEST [CarinaMobileTesting - testMultiplication] PASSED at [20:32:28 2023-07-30]

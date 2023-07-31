@@ -1,0 +1,6 @@
+[2023-07-30 08:52:55] [1] [WARN] Reporting disabled: using no op test run registrar
+[2023-07-30 08:52:55] [1] [INFO] TEST [CarinaMobileTesting - testSuccessfulLaunch] STARTED at [15:52:55 2023-07-30]
+[2023-07-30 08:52:55] [1] [INFO] Starting driver session...
+[2023-07-30 08:52:56] [1] [ERROR] Failed to attach artifact reference 'app' to test run because it has not been started yet.
+[2023-07-30 08:53:11] [1] [INFO] Driver session started.
+[2023-07-30 08:53:11] [1] [INFO] TEST [CarinaMobileTesting - testSuccessfulLaunch] PASSED at [15:53:11 2023-07-30]

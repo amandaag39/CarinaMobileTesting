@@ -1,0 +1,27 @@
+[2023-07-31 01:07:45] [1] [INFO] 
+============= Basic configuration =============
+env=DEMO
+=========== Encryptor configuration ===========
+crypto_key_value=*****
+=========== WebDriver configuration ===========
+url=https://the-internet.herokuapp.com
+selenium_url=http://localhost:4723
+auto_screenshot=true
+explicit_timeout=60
+localization_encoding=UTF-8
+language=en_US
+-------------- Driver capabilities ------------
+app=https://d.apkpure.com/b/APK/com.google.android.calculator?version=latest
+automationName=uiautomator2
+platformName=ANDROID
+===============================================
+
+[2023-07-31 01:07:45] [1] [WARN] Reporting disabled: using no op test run registrar
+[2023-07-31 01:07:50] [1] [INFO] [TestNG] Running:
+  C:\Users\Owner\AppData\Local\JetBrains\IdeaIC2022.3\temp-testng-customsuite.xml
+
+[2023-07-31 01:07:50] [1] [INFO] Set thread-count=1
+[2023-07-31 01:07:50] [1] [INFO] Set data-provider-thread-count=1
+[2023-07-31 01:07:50] [1] [INFO] CARINA_CORE_VERSION: 1.1.3
+[2023-07-31 01:08:27] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2023-07-31 01:08:27] [1] [INFO] RESULT #1: TEST [CarinaMobileTesting - testSubtraction] PASS [screenshots=file://C:\Users\Owner\OneDrive\Documents\GitHub\CarinaMobileTesting\.\reports\1690765665795/f8fffd92-214c-45f6-bbd5-43b426e82498/report.html | log=file://C:\Users\Owner\OneDrive\Documents\GitHub\CarinaMobileTesting\.\reports\1690765665795/f8fffd92-214c-45f6-bbd5-43b426e82498/test.log]
